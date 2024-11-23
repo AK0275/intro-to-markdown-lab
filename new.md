@@ -4,18 +4,18 @@
 
 ### Preparing the ingredients for the sandwich
 
-1. Bread
-2. Cheese
-3. Lettuce
-4. Tomatoes
+- Bread
+- Cheese
+- Lettuce
+- Tomatoes
 
 ## second
 
 ### Steps to prepare the sandwich
-- Bread
-- Lettuce
-- Tomatoes
-- Cheese
-- Bread
+1. Bread
+2. Lettuce
+3. Tomatoes
+4. Cheese
+5. Bread
 
 # Now we made a perfect sandwich
